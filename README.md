@@ -1,2 +1,0 @@
-# imagesReact
-Created with CodeSandbox
